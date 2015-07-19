@@ -1,0 +1,10 @@
+Farm
+0;483;0;196;16;196
+
+Strawberry 7
+StrawberryPlant.750.0;StrawberryPlant.750.0;StrawberryPlant.750.0;StrawberryPlant.750.0<>StrawberryPlant.0.3.750;StrawberryPlant.0.3.750;StrawberryPlant.0.3.750;StrawberryPlant.0.3.750
+bread 2;jam 0.2<>Strawberry 1
+Bugopaki.M.2.16:00-18:00.0.50.0.10.Strawberry,5-10,4<>Naxona.F.2.16:00-18:00.0.50.0.10.Strawberry,5-10,6,4 5
+
+100.0
+700
