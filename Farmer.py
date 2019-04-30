@@ -416,10 +416,10 @@ while True:
                                         if leave:
                                             a,b=Idny.split("-")
                                             a,b=int(a),int(b)
-                                            dny=ranndom.randint(a,b)
+                                            dny=random.randint(a,b)
                                             a,b=Ihodiny.split("-")
                                             a,b=int(a)*60,int(b)*60
-                                            hodiny=ranndom.randint(a,b)
+                                            hodiny=random.randint(a,b)
                                             a,b=Imnozstvi.split("-")
                                             a,b=int(a),int(b)
                                             mnozstvi=random.randint(a,b)
