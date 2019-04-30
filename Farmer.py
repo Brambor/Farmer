@@ -665,9 +665,14 @@ while True:
     for i in range(50):
         print()
     titulky=Otitulky.read().split("\n")
-    for i in titulky:
-        print(i)
-        time.sleep(1)
+    time.sleep(1)
+    for row in titulky:
+        for char in row:
+            print(char, end="", flush=True)
+            time.sleep(0.07)
+        time.sleep(0.2)
+        print()
+        time.sleep(0.2)
     Otitulky.close()
   elif menu0=="3":
     print("Thanks for playing!")
